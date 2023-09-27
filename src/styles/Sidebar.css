@@ -1,0 +1,32 @@
+.sidebar {
+  padding: 1rem;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  width: 3.5rem;
+  height: 100vh;
+  position: fixed;
+}
+
+.logo-container {
+  display: flex;
+  flex-direction: column;
+  gap: 6rem;
+  margin-top: 2rem;
+  font-size: 1.5rem;
+}
+
+.action-logo {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.avatar {
+  position: absolute;
+  bottom: 4rem;
+  color: white;
+  font-size: 1rem;
+  padding: 1rem 0.8rem;
+  text-align: center;
+  background-color: rgb(34, 68, 222);
+  border-radius: 100%;
+}
