@@ -9,8 +9,8 @@
 .logo-container {
   display: flex;
   flex-direction: column;
-  gap: 6rem;
-  margin-top: 2rem;
+  gap: 4rem;
+  margin-top: 0.5rem;
   font-size: 1.5rem;
 }
 
